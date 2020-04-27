@@ -1,0 +1,26 @@
+{
+  "name": "mars-weather-app",
+  "version": "1.0.0",
+  "description": "Mars weather app for YT collab by Kevin Powell and Web Dev Simplified.",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonch0/Mars-Weather-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonch0/Mars-Weather-App/issues"
+  },
+  "homepage": "https://github.com/gonch0/Mars-Weather-App#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
